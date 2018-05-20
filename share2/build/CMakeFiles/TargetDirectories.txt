@@ -1,0 +1,2 @@
+/home/sai/Desktop/share2/build/CMakeFiles/libhello.dir
+/home/sai/Desktop/share2/build/CMakeFiles/test.dir

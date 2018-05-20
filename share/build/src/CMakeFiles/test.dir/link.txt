@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/test.dir/test.o  -o ../test -rdynamic ../libme/libshare.so -Wl,-rpath,/home/sai/Desktop/share/build/libme 
